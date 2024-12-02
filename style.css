@@ -1,0 +1,42 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background: url('https://imgs.search.brave.com/goRoihUWYXNfeomPXpZguIb67Ss0gvVGqWd3f0f1nVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4udHJpcGFk/dmlzb3IuY29tL21l/ZGlhL3Bob3RvLW8v/MGQvZGYvN2UvNjIv/aWxlcy1kZS1sb3Mu/anBn') no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 2em;
+    color: #ffd700;
+}
+
+p, ul {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
